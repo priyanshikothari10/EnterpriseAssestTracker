@@ -50,18 +50,3 @@ The Enterprise Asset Tracker project has extensive potential for expansion and e
 contract ID : ST3RTGSG78CAJKBWXG133Z2CXJ142QJ6QBVD7D7PX.EnterpriseAssetTracker
 ![alt text](image.png)
 
-**Testnet Deployment:**
-- Network: Stacks Testnet
-- Contract Address: [To be added]
-- Contract Name: [To be added]
-- Deployment Block: [To be added]
-- Deployment Transaction: [To be added]
-
-** Deployment Instruction:**
-- Network: Stacks Mainnet  
-- Contract Address: [To be added]
-- Contract Name: [To be added]
-- Deployment Block: [To be added]
-- Deployment Transaction: [To be added]
-
----
